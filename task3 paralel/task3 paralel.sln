@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task3 paralel", "task3 paralel\task3 paralel.csproj", "{6C84E415-2597-4CAD-B291-3D887B1498FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C84E415-2597-4CAD-B291-3D887B1498FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C84E415-2597-4CAD-B291-3D887B1498FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C84E415-2597-4CAD-B291-3D887B1498FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C84E415-2597-4CAD-B291-3D887B1498FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C89D336-BE58-47B9-BA37-E8D888443C7B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task4Parallel", "task4Parallel\task4Parallel.csproj", "{FB47206E-BF04-448B-98ED-1B22AC212024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB47206E-BF04-448B-98ED-1B22AC212024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB47206E-BF04-448B-98ED-1B22AC212024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB47206E-BF04-448B-98ED-1B22AC212024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB47206E-BF04-448B-98ED-1B22AC212024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828E797E-5438-4817-934E-8248C85CD993}
+	EndGlobalSection
+EndGlobal
